@@ -102,6 +102,9 @@ python train.py
 --vectorizer.pkl
 
 ### 4️⃣ Run the Application
+
+bash-
+
 python app.py
 ### Open your browser and go to:
 http://127.0.0.1:5000
