@@ -94,7 +94,9 @@ python train.py
 
 
 #This will generate:
+
 --spam_model.pkl
+
 --vectorizer.pkl
 
 ### 4️⃣ Run the Application
