@@ -70,6 +70,7 @@ Labels are converted to:
 ### 2️⃣ Install Required Libraries 
 ***bash
 python -m pip install flask pandas scikit-learn joblib
+
 ### 3️⃣Train the Model
 
 Before running the application, train the model:
