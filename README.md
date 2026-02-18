@@ -31,19 +31,32 @@ The model is trained using the **SMS Spam Collection Dataset** and uses **TF-IDF
 ---
 
 ## Project Structure
-sms-spam-detection<br>
+sms-spam-detection
+
 │
-├── app.py<br>
-├── train.py<br>
+
+├── app.py
+
+├── train.py
+
 ├── spam.csv
+
 ├── spam_model.pkl
+
 ├── vectorizer.pkl
+
 ├── requirements.txt
+
 │
+
 ├── templates
+
 │ └── index.html
+
 │
+
 └── static
+
   └── style.css
 
 ---
