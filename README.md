@@ -68,13 +68,13 @@ Labels are converted to:
 ---
 
 ### 2️⃣ Install Required Libraries 
-***bash
+bash-
 python -m pip install flask pandas scikit-learn joblib
 
 ### 3️⃣Train the Model
 
 Before running the application, train the model:
-**bash-
+bash-
 python train.py
 
 
@@ -91,18 +91,18 @@ http://127.0.0.1:5000
 
 ## Spam Messages
 
---"Congratulations! You have won a free lottery ticket!"
+-"Congratulations! You have won a free lottery ticket!"
 
---"URGENT! Claim your prize now!"
+-"URGENT! Claim your prize now!"
 
---"Buy now and get 50% discount!"
+-"Buy now and get 50% discount!"
 
 ##  Not Spam Messages
 
---"Are we meeting tomorrow?"
+-"Are we meeting tomorrow?"
 
---"Call me when you reach home."
+-"Call me when you reach home."
 
---"Happy Birthday!"
+-"Happy Birthday!"
 
 
